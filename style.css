@@ -15,9 +15,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 180px 0;
-  background-color: #ffd700;
+  background-color: #292826;
   background-size: cover;
-  color: dark-grey;
+  color: #FFF8DC;
   text-align: center;
 }
 
@@ -41,25 +41,25 @@ a {
   margin: 40px 0;
 }
 
-.mail {
-  background-color: #FF0000 ;
+.ulu {
+  background-color: #f9d342;
 }
-.facebook {
-  background-color: #3b5998;
+.ulu2 {
+  background-color: #f9d342;
 }
-.twitter {
-  background-color: #55acee;
+.ulu3 {
+  background-color: #f9d342;
 }
-.github{
-  background-color: #808080;
+.ulu4{
+  background-color: #f9d342;
 }
-.linkedin{
-  background-color: #000080;
+.ulu5{
+  background-color: #f9d342;
 }
 
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: black;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
