@@ -6,13 +6,6 @@ body {
 a {
   text-decoration: none;
 }
-
-.container {
-  width: 1170px;
-  padding: 0 15px;
-  margin: 0 auto;
-}
-
 .top-wrapper {
   padding: 180px 0 180px 0;
   background-color: #292826;
